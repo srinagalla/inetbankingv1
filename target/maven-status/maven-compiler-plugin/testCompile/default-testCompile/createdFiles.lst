@@ -1,0 +1,8 @@
+inetBankingv1\testcases\BaseClass.class
+inetBankingv1\pageobjects\AddnewCustomer.class
+inetBankingv1\Utilities\ExcelUtils.class
+inetBankingv1\Utilities\Readconfig.class
+inetBankingv1\testcases\Tc_LoginDDT_002.class
+inetBankingv1\testcases\Newcustomertestcase.class
+inetBankingv1\testcases\TC_LoginTest_001.class
+inetBankingv1\pageobjects\Loginpage.class
